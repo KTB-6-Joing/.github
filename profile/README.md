@@ -1,12 +1,35 @@
-## Hi there 👋
+# Project Name
 
-<!--
+![Project Logo](link-to-logo-image)
 
-**Here are some ideas to get you started:**
+## 🚀 Project Overview
+A brief, compelling description of the project. What does it do? Why does it exist? Highlight the unique features or goals.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 👥 Meet the Team
+
+| ![Dev1](https://github.com/jwywoo.png?size=100) | ![Dev2](https://github.com/username2.png?size=100) | ![Dev3](https://github.com/username3.png?size=100) | ![Dev4](https://github.com/username4.png?size=100) | ![Dev5](https://github.com/username5.png?size=100) | ![Dev6](https://github.com/username6.png?size=100) |
+|:-------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|
+| **Wooyong Jeong(Woo)**                                         | **Dev 2**                                         | **Dev 3**                                         | **Dev 4**                                         | **Dev 5**                                         | **Dev 6**                                         |
+| [GitHub](https://github.com/jwywoo)            | [GitHub](https://github.com/username2)            | [GitHub](https://github.com/username3)            | [GitHub](https://github.com/username4)            | [GitHub](https://github.com/username5)            | [GitHub](https://github.com/username6)            |
+| AI Generation                                 | Backend Engineer                                  | DevOps                                            | UI/UX Designer                                    | Database Admin                                    | Project Manager                                   |
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, TailwindCSS
+- **Backend:** Node.js, Express
+- **Database:** PostgreSQL
+- **Other Tools:** Docker, Redis
+
+---
+
+## 📸 Key Features Demo
+
+### Creator: Social Login 및 채널 유해성 평가
+
+![Creator Social Login & Validation](/static/gifs/ezgif.com-video-to-gif-converter.gif)
+
+---
