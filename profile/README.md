@@ -28,8 +28,8 @@ A brief, compelling description of the project. What does it do? Why does it exi
 
 ## 📸 Key Features Demo
 
-### Creator: Social Login 및 채널 유해성 평가
+### 1. Creator: Social Login 및 채널 유해성 평가
 
-![Creator Social Login & Validation](/static/gifs/ezgif.com-video-to-gif-converter.gif)
+![Creator Social Login & Validation](/static/gifs/ezgif.com-video-to-webp-converter.webp)
 
 ---
