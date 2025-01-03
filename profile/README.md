@@ -122,16 +122,13 @@
 
 ### AI: Rec-System
 
-<img alt="Rec" src="https://img.shields.io/badge/sentence--bert-lightgrey.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img alt="Rec" src="https://img.shields.io/badge/sentence--bert-lightgrey.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/><img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 <Br>
 
 ### AI: Storyboard Generation
 
-<img alt="FLUX.1" src="https://img.shields.io/badge/FLUX.1-lightgrey.svg?&style=for-the-badge"/>
-<img alt="FLORENCE" src="https://img.shields.io/badge/FLORENCE-lightgrey.svg?&style=for-the-badge"/>
-<img alt="AI-TOOLKIT" src="https://img.shields.io/badge/AI--TOOLKIT-lightgrey.svg?&style=for-the-badge"/>
+<img alt="FLUX.1" src="https://img.shields.io/badge/FLUX.1-lightgrey.svg?&style=for-the-badge"/><img alt="FLORENCE" src="https://img.shields.io/badge/FLORENCE-lightgrey.svg?&style=for-the-badge"/><img alt="AI-TOOLKIT" src="https://img.shields.io/badge/AI--TOOLKIT-lightgrey.svg?&style=for-the-badge"/>
 
 <Br>
 
