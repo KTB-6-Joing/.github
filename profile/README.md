@@ -106,24 +106,34 @@
 
 <img alt="vercel" src="https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=Git&logoColor=white"/><img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/><img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img alt="Vite" src="https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"/>
 
+<Br>
+
 ### Backend
 
 <img alt="Spring" src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img alt="redis" src="https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/><img alt="JPA" src ="https://img.shields.io/badge/jpa-6DB33F.svg?&style=for-the-badge&logo=jpa&logoColor=white"/>
 
+<Br>
+
 ### AI: Common
 
 <img alt="ChatGPT" src="https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white"/><img alt="PYTHON" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="FASTAPI" src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/><img alt="HUGGINGFACE" src="https://img.shields.io/badge/huggingface-FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=white"/><img alt="LANGCHAIN" src="https://img.shields.io/badge/langchain-1C3C3C.svg?&style=for-the-badge&logo=langchain&logoColor=white"/><img alt="N8N" src="https://img.shields.io/badge/n8n-EA4B71.svg?&style=for-the-badge&logo=n8n&logoColor=white"/>
+
+<Br>
 
 ### AI: Rec-System
 
 <img alt="Rec" src="https://img.shields.io/badge/sentence--bert-lightgrey.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
 
+<Br>
+
 ### AI: Storyboard Generation
 
 <img alt="FLUX.1" src="https://img.shields.io/badge/FLUX.1-lightgrey.svg?&style=for-the-badge"/>
 <img alt="FLORENCE" src="https://img.shields.io/badge/FLORENCE-lightgrey.svg?&style=for-the-badge"/>
 <img alt="AI-TOOLKIT" src="https://img.shields.io/badge/AI--TOOLKIT-lightgrey.svg?&style=for-the-badge"/>
+
+<Br>
 
 ### Cloud
 
