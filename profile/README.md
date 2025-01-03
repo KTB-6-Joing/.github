@@ -127,8 +127,7 @@
 <Br>
 
 ### AI: Storyboard Generation
-
-<img alt="FLUX.1" src="https://img.shields.io/badge/FLUX.1-lightgrey.svg?&style=for-the-badge"/><img alt="FLORENCE" src="https://img.shields.io/badge/FLORENCE-lightgrey.svg?&style=for-the-badge"/><img alt="AI-TOOLKIT" src="https://img.shields.io/badge/AI--TOOLKIT-lightgrey.svg?&style=for-the-badge"/>
+<img alt="FLUX.1" src="https://img.shields.io/badge/FLUX.1-4A90E2.svg?&style=for-the-badge"/><img alt="FLORENCE" src="https://img.shields.io/badge/FLORENCE--2-50E3C2.svg?&style=for-the-badge"/><img alt="AI-TOOLKIT" src="https://img.shields.io/badge/AI--TOOLKIT-F5A623.svg?&style=for-the-badge"/>
 
 <Br>
 
