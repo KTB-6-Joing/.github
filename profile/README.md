@@ -64,7 +64,8 @@
   - 채널 유해성 평가
   - 기획안 기반 콘티 생성
   - Repositories
-    - Develop Repository: 서비스 저장소로 구현전 로컬 테스트 및 기능별 실증을 위한 저장소
+    - [Service Repository](https://github.com/KTB-6-Joing/joing-genai-server): 로컬에서 테스트 되고 실증된 기능들을 사용자가 사용 가능한 서비스 단계로 전환한 저장소
+    - Develop Repository: 실제 사용되는 서비스로의 전환 전 로컬 테스트 및 기능별 실증을 위한 저장소 모음
       - Channel, Proposal Evaluation & Summary Test: 채널, 기획안 평가 및 요약 생성 관련 개발 레포
         - [Test Repository](https://github.com/jwywoo/Project-Joing-MVP-Dev): 기능 테스트 레포
         - [Service Develop Repository](https://github.com/jwywoo/Project-Joing-Service-MVP-Dev): 서비스 전환 개발 레포
@@ -72,7 +73,6 @@
         - [Fine-tuning Repository](https://github.com/jwywoo/flux_fine_tuning_joing): 파인튜닝 테스트 관련 저장소
         - [HuggingFace Model Repository](https://huggingface.co/jwywoo/storyboard-scene-generation-model-flux-v3-FLH): 최종 파인튜닝 된 Flux 모델
         - [Service Develop Repository](): 콘티생성 기능 서비스 개발 저장소
-    - [Service Repository](https://github.com/KTB-6-Joing/joing-genai-server): 로컬에서 테스트 되고 실증된 기능들을 사용자가 사용 가능한 서비스 단계로 전환한 저장소
 
 <Br>
 
