@@ -1,6 +1,6 @@
 # Project JOING
 
-![Project Logo](link-to-logo-image)
+![Project Logo Joing](/static/images/joinglogo_noback.png)
 
 <Br>
 <Br>
