@@ -96,6 +96,10 @@
 <Br>
 
 + [박소연(Ellie.Park)](https://github.com/PARK-SSOYEON)
+  - UI/UX Design
+  - Frontend Architecture Design
+  - State Management System Implementation
+  - Responsive Design Implementation
 
 <Br>
 <Br>
